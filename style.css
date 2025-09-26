@@ -147,10 +147,12 @@
 
     /* Hero Image */
     .hero-img {
+      position: relative;
       width: 320px;
       height: 320px;
+      right: 10px;
       border-radius: 50%;
-      background: url('./1752664952312.jpg') no-repeat center/cover;
+      background: url('./WhatsApp\ Image\ 2025-09-26\ at\ 17.26.13_33c726a8.jpg') no-repeat center/cover;
       border: 6px solid rgba(255, 255, 255, 0.6);
       box-shadow: 0px 0px 40px rgba(255, 255, 255, 0.3);
     }
